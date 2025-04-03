@@ -22,15 +22,8 @@ section {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.photo-gallery {
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-}
-
-.photo-gallery img {
-    width: 400px;
-    border-radius: 8px;
+.gallerie de photo {
+    width: 200px; 
 }
 
 button {
@@ -115,9 +108,5 @@ h1, h2 {
     font-family: Arial, sans-serif;
 }
 
-.photo-gallery img {
-    width: 100%;
-    height: auto;
-    margin: 10px;
-}
+
 
