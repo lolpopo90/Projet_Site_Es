@@ -29,7 +29,7 @@ section {
 }
 
 .photo-gallery img {
-    width: 45%;
+    width: 400px;
     border-radius: 8px;
 }
 
